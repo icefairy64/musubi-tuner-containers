@@ -3,7 +3,7 @@
 ## Introduction
 This is just a set of my personal container definitions for Musubi Tuner.
 
-No major features or changes here - just a set of known-good refs some text encoder metadata baked in.
+No major features or changes here - just a set of known-good refs with some text encoder metadata baked in.
 
 ## Original project reference
 Musubi Tuner by kohya-ss: https://github.com/kohya-ss/musubi-tuner
